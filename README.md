@@ -59,4 +59,3 @@ git commit -m "Descripción del cambio"
 ```
 git push origin main
 ```
-Los comandos anteriores están considerados para un ambiente Linux. [Referencia.](https://www.baeldung.com/junit-run-from-command-line)
