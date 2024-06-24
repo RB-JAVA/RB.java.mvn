@@ -5,7 +5,9 @@
 				"GitHub.copilot",
 				"vscjava.vscode-java-pack",
 				"hediet.vscode-drawio",
-				"bierner.markdown-mermaid"
+				"bierner.markdown-mermaid",
+				"esbenp.prettier-vscode",
+				"mhutchie.git-graph"
 			]
 		}
 	}
