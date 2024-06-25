@@ -26,27 +26,27 @@ El repositorio está configurado para crear Diagramas de clases UML con ```draw.
 
 ### Compilar
 ```
-mvn -f app compile
+mvn compile
 ```
 ### Probar N tests
 ```
-mvn -f app test
+mvn test
 ```
 ### Probar 1 test
 ```
-mvn -f app test -Dtest="AppTest#shouldAnswerWithTrue" 
+mvn test -Dtest="AppTest#shouldAnswerWithTrue" 
 ```
 ### Ejecutar App
 ```
-java -cp app/target/classes miPrincipal.App
+java -cp target/classes miPrincipal.App
 ```
 ### Empacar App
 ```
-mvn -f app package
+mvn package
 ```
 ### Limpiar binarios
 ```
-mvn -f app clean
+mvn clean
 ```
 ## Comandos Git-Cambios y envío a Autograding
 
