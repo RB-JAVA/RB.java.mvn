@@ -38,7 +38,7 @@ mvn test -Dtest="AppTest#shouldAnswerWithTrue"
 ```
 ### Ejecutar App
 ```
-mvn compile exec:java -q -Dexec.mainClass="miPrincipal.App"
+mvn -q exec:java
 ```
 ```
 java -cp target/classes miPrincipal.App
