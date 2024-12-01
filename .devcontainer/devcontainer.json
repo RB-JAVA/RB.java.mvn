@@ -11,5 +11,6 @@
 				"ms-vscode.copilot-mermaid-diagram"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "mvn clean && clear"
 }
