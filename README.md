@@ -40,14 +40,14 @@ Para mejores resultados sigue estos pasos:
 3. Aplica el prompt para el **Diagrama de Clases UML**:
 
 ```
-@mermaid /uml
+Genera el Diagrama de clases UML en formato Mermaid para las clases mencionadas en el contexto. Incluye atributos y métodos públicos y privados, así como relaciones entre las clases.
 ```
 
 4. Revisa el diagrama generado en la vista previa de Mermaid.
 5. Si también necesitas un **Diagrama de Secuencia**, aplica el siguiente prompt (manteniendo el mismo contexto):
 
 ```
-@mermaid /sequence
+Genera el Diagrama de Secuencia UML en formato Mermaid para las clases mencionadas en el contexto. Incluye los mensajes entre objetos y la secuencia de llamadas a métodos.
 ```
 
 6. Copia el código Mermaid generado y pégalo en la sección correspondiente del ```README.md``` o en [el editor en línea](https://mermaid.live/) para visualizarlo.

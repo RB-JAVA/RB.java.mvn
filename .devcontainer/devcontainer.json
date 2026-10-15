@@ -7,8 +7,7 @@
 				"hediet.vscode-drawio",
 				"bierner.markdown-mermaid",
 				"esbenp.prettier-vscode",
-				"mhutchie.git-graph",
-				"ms-vscode.copilot-mermaid-diagram"
+				"mhutchie.git-graph"
 			]
 		}
 	},
