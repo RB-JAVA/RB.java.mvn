@@ -1,6 +1,6 @@
-# Proyecto - Java con Pruebas para Autograding - Maven
+# Proyecto - Java con Pruebas - Maven
 
-Plantilla básica para proyecto de Java con Autograding usando Maven
+Plantilla básica para proyecto de Java usando Maven
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
