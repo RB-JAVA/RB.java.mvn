@@ -31,7 +31,7 @@ El repositorio está configurado para crear Diagramas de clases UML con ```draw.
 6. Diseña tu diagrama de clases UML agregando clases, atributos, métodos y relaciones.
 7. Guarda los cambios con ```Ctrl+S``` (o ```Cmd+S``` en Mac). El archivo ```.png``` se actualizará automáticamente.
 
-### Prompts para generar los Diagramas de Clase y Secuencia con MermAId
+### Prompts para generar los Diagramas de Clase y Secuencia con IA
 
 Para mejores resultados sigue estos pasos:
 
