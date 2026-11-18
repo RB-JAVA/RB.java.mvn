@@ -40,14 +40,14 @@ Para mejores resultados sigue estos pasos:
 3. Aplica el prompt para el **Diagrama de Clases UML**:
 
 ```
-Genera el Diagrama de clases UML en formato Mermaid para las clases mencionadas en el contexto. Incluye atributos y métodos públicos y privados, así como relaciones entre las clases.
+Genera el diagrama de clases para el código Java que te proporciono a continuación. Asegúrate de incluir todas las clases, atributos y métodos públicos y privados. El diagrama debe reflejar las relaciones entre las clases, como herencia, composición y agregación. Utiliza la sintaxis de mermaid para crear un diagrama claro y legible. Entrega el resultado en formato mermaid en un archivo clases.md
 ```
 
 4. Revisa el diagrama generado en la vista previa de Mermaid.
 5. Si también necesitas un **Diagrama de Secuencia**, aplica el siguiente prompt (manteniendo el mismo contexto):
 
 ```
-Genera el Diagrama de Secuencia UML en formato Mermaid para las clases mencionadas en el contexto. Incluye los mensajes entre objetos y la secuencia de llamadas a métodos.
+Genera el diagrama de secuencia para el código Java que te proporciono a continuación. Asegúrate de incluir todos los objetos y métodos involucrados en la secuencia. El diagrama debe reflejar el flujo de mensajes entre los objetos, incluyendo llamadas a métodos y retornos. Utiliza la sintaxis de mermaid para crear un diagrama claro y legible. Entrega el resultado en formato mermaid en un archivo secuencia.md
 ```
 
 6. Copia el código Mermaid generado y pégalo en la sección correspondiente del ```README.md``` o en [el editor en línea](https://mermaid.live/) para visualizarlo.
